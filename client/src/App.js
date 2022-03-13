@@ -10,7 +10,7 @@ function App() {
     <div className="App">
        <Header/>
        <Navbar/>
-       <main>
+       <main className= "main">
          <About/>
          < Projects/>
        </main>
